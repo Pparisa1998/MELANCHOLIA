@@ -1,0 +1,38 @@
+﻿I'm sorry, but an uncaught exception occurred.
+
+While running game code:
+  File "game/script.rpy", line 2082, in script
+    call screen about_credits (zoom 1.5)
+  File "renpy/common/000statements.rpy", line 663, in execute_call_screen
+    args, kwargs = a.evaluate()
+SyntaxError: unexpected EOF while parsing (script.rpy, line 2082)
+
+-- Full Traceback ------------------------------------------------------------
+
+Full traceback:
+  File "game/script.rpy", line 2082, in script
+    call screen about_credits (zoom 1.5)
+  File "/Users/parisa/Desktop/renpy-8.3.6-sdk/renpy/ast.py", line 1987, in execute
+    self.call("execute")
+  File "/Users/parisa/Desktop/renpy-8.3.6-sdk/renpy/ast.py", line 1966, in call
+    return renpy.statements.call(method, parsed, *args, **kwargs)
+  File "/Users/parisa/Desktop/renpy-8.3.6-sdk/renpy/statements.py", line 374, in call
+    return method(parsed, *args, **kwargs)
+  File "renpy/common/000statements.rpy", line 663, in execute_call_screen
+    args, kwargs = a.evaluate()
+  File "/Users/parisa/Desktop/renpy-8.3.6-sdk/renpy/parameter.py", line 503, in evaluate
+    value = renpy.python.py_eval(v, locals=scope)
+  File "/Users/parisa/Desktop/renpy-8.3.6-sdk/renpy/python.py", line 1213, in py_eval
+    code = py_compile(code, 'eval')
+  File "/Users/parisa/Desktop/renpy-8.3.6-sdk/renpy/python.py", line 1150, in py_compile
+    raise e
+  File "/Users/parisa/Desktop/renpy-8.3.6-sdk/renpy/python.py", line 1087, in py_compile
+    raise orig_e
+  File "/Users/parisa/Desktop/renpy-8.3.6-sdk/renpy/python.py", line 1079, in py_compile
+    tree = compile(source, filename, py_mode, ast.PyCF_ONLY_AST | flags, 1)
+SyntaxError: unexpected EOF while parsing (script.rpy, line 2082)
+
+macOS-13.0-arm64-arm-64bit arm64
+Ren'Py 8.3.6.25022803
+MELANCHOLIA 
+Fri Feb 27 23:50:42 2026

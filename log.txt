@@ -1,66 +1,29 @@
-2026-03-23 04:43:41 UTC
+2026-03-23 06:13:50 UTC
 macOS-13.0-arm64-arm-64bit
 Ren'Py 8.3.6.25022803
 
-Early init took 0.03s
+Early init took 0.04s
 Loading error handling took 0.02s
-Loading script took 0.24s
-Loading save slot metadata took 0.02s
+Loading script took 0.07s
+Loading save slot metadata took 0.04s
 Loading persistent took 0.00s
-Set script version to: None (alternate path)
-Running init code took 0.16s
+Running init code took 0.03s
 Loading analysis data took 0.01s
 Analyze and compile ATL took 0.00s
-Reloading save slot metadata took 0.01s
+Reloading save slot metadata took 0.02s
 Index archives took 0.00s
-Dump and make backups took 0.00s
+Dump and make backups took 0.03s
 Cleaning cache took 0.00s
 Making clean stores took 0.00s
-Initial gc took 0.03s
+Initial gc took 0.02s
 DPI scale factor: 1.000000
 Creating interface object took 0.00s
 Cleaning stores took 0.00s
 Init translation took 0.02s
 Build styles took 0.00s
-Load screen analysis took 0.02s
+Load screen analysis took 0.01s
 Analyze screens took 0.00s
 Save screen analysis took 0.00s
-Prepare screens took 0.04s
+Prepare screens took 0.03s
 Save pyanalysis. took 0.00s
 Save bytecode. took 0.00s
-Running _start took 0.00s
-Interface start took 0.13s
-
-Initializing gl2 renderer:
-primary display bounds: (0, 0, 1440, 900)
-swap interval: 1 frames
-Windowed mode.
-Vendor: "b'Apple'"
-Renderer: b'Apple M1'
-Version: b'2.1 Metal - 83'
-Display Info: None
-Screen sizes: virtual=(800, 600) physical=(807, 605) drawable=(1614, 1210)
-Maximum texture size: 4096x4096
-----
-127.0.0.1 - - [23/Mar/2026 11:43:59] "GET /index.html HTTP/1.1" 200 -
-127.0.0.1 - - [23/Mar/2026 11:43:59] "GET /web-presplash.jpg HTTP/1.1" 200 -
-127.0.0.1 - - [23/Mar/2026 11:43:59] "GET /renpy-pre.js HTTP/1.1" 200 -
-127.0.0.1 - - [23/Mar/2026 11:43:59] "GET /renpy.js HTTP/1.1" 200 -
-127.0.0.1 - - [23/Mar/2026 11:43:59] "GET /manifest.json HTTP/1.1" 200 -
-127.0.0.1 - - [23/Mar/2026 11:43:59] "GET /service-worker.js HTTP/1.1" 200 -
-127.0.0.1 - - [23/Mar/2026 11:43:59] "GET /renpy.data HTTP/1.1" 200 -
-127.0.0.1 - - [23/Mar/2026 11:43:59] "GET /renpy.wasm HTTP/1.1" 200 -
-127.0.0.1 - - [23/Mar/2026 11:43:59] "GET /icons/icon-72x72.png HTTP/1.1" 200 -
-127.0.0.1 - - [23/Mar/2026 11:43:59] "GET /icons/icon-144x144.png HTTP/1.1" 200 -
-127.0.0.1 - - [23/Mar/2026 11:43:59] "GET /game.zip HTTP/1.1" 200 -
-127.0.0.1 - - [23/Mar/2026 11:44:03] "GET /game/images/bg_op.png HTTP/1.1" 200 -
-127.0.0.1 - - [23/Mar/2026 11:44:04] "GET /game/audio/bgm.mp3 HTTP/1.1" 200 -
-127.0.0.1 - - [23/Mar/2026 11:44:04] "GET /game/images/start1.png HTTP/1.1" 200 -
-127.0.0.1 - - [23/Mar/2026 11:44:04] "GET /game/images/bg%20school%20front.png HTTP/1.1" 200 -
-127.0.0.1 - - [23/Mar/2026 11:44:04] "GET /game/images/player%20bl.png HTTP/1.1" 200 -
-127.0.0.1 - - [23/Mar/2026 11:44:04] "GET /game/images/depress1r.png HTTP/1.1" 200 -
-127.0.0.1 - - [23/Mar/2026 11:44:04] "GET /game/images/depress3.png HTTP/1.1" 200 -
-127.0.0.1 - - [23/Mar/2026 11:44:04] "GET /game/images/npcc.png HTTP/1.1" 200 -
-127.0.0.1 - - [23/Mar/2026 11:44:09] "GET /icons/icon-512x512.png HTTP/1.1" 200 -
-127.0.0.1 - - [23/Mar/2026 11:44:10] "GET /game/images/player%20bc.png HTTP/1.1" 200 -
-----

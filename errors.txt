@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/script.rpy", line 893: Line is indented, but the preceding play sound statement statement does not expect a block. Please check this line's indentation. You may have forgotten a colon (:).
+    "เตชินเลือกเก็บความรู้สึกไว้กับตัวเอง และหลีกเลี่ยงการพูดถึงครอบครัว"
+    ^
+
+Ren'Py Version: Ren'Py 8.3.6.25022803
+Mon Mar  2 16:00:28 2026
