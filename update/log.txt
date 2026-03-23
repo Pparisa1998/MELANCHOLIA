@@ -1,0 +1,76 @@
+Verifying with ECDSA.
+Verified with ECDSA.
+Verifying with RSA.
+Verified with RSA.
+--------------------------------------------------------------------------------
+Starting update at Tue Mar 18 11:31:50 2025.
+Removing identical files:
+  new     web/hash.txt
+  new     web/index.html
+  new     web/index.html.symbols
+  new     web/manifest.json
+  new     web/renpy-pre.js
+  new     web/renpy.data
+  new     web/renpy.js
+  new     web/renpy.wasm
+  new     web/service-worker.js
+  new     web/web-icon.png
+  new     web/web-presplash.jpg
+0 files are unchanged.
+11 files are new/changed.
+Created a plan with 26 entries.
+126be1681c49ae72f37bd6978ed2e870b774591bda61777070c529b0ec11e7d7.rpu (33502864, 57)
+  -> /Users/parisa/Desktop/renpy-8.3.6-sdk/web/hash.txt (0, 64) compressed
+Blockfile delete /Users/parisa/Desktop/renpy-8.3.6-sdk/update/126be1681c49ae72f37bd6978ed2e870b774591bda61777070c529b0ec11e7d7.rpu.
+44117881a0d9b4722e1e744ecd936af55477d08c45dc5f6f2e27be212fef46b3.rpu (15, 1144617)
+  -> /Users/parisa/Desktop/renpy-8.3.6-sdk/web/web-presplash.jpg (0, 1144617) 
+44117881a0d9b4722e1e744ecd936af55477d08c45dc5f6f2e27be212fef46b3.rpu (1144632, 51505)
+  -> /Users/parisa/Desktop/renpy-8.3.6-sdk/web/web-icon.png (0, 51505) 
+44117881a0d9b4722e1e744ecd936af55477d08c45dc5f6f2e27be212fef46b3.rpu (1196137, 942)
+  -> /Users/parisa/Desktop/renpy-8.3.6-sdk/web/service-worker.js (0, 2573) compressed
+44117881a0d9b4722e1e744ecd936af55477d08c45dc5f6f2e27be212fef46b3.rpu (1197079, 766925)
+  -> /Users/parisa/Desktop/renpy-8.3.6-sdk/web/renpy.wasm (0, 2097152) compressed
+44117881a0d9b4722e1e744ecd936af55477d08c45dc5f6f2e27be212fef46b3.rpu (1964004, 709380)
+  -> /Users/parisa/Desktop/renpy-8.3.6-sdk/web/renpy.wasm (2097152, 2097152) compressed
+44117881a0d9b4722e1e744ecd936af55477d08c45dc5f6f2e27be212fef46b3.rpu (2673384, 692546)
+  -> /Users/parisa/Desktop/renpy-8.3.6-sdk/web/renpy.wasm (4194304, 2097152) compressed
+44117881a0d9b4722e1e744ecd936af55477d08c45dc5f6f2e27be212fef46b3.rpu (3365930, 485246)
+  -> /Users/parisa/Desktop/renpy-8.3.6-sdk/web/renpy.wasm (6291456, 2097152) compressed
+44117881a0d9b4722e1e744ecd936af55477d08c45dc5f6f2e27be212fef46b3.rpu (3851176, 499349)
+  -> /Users/parisa/Desktop/renpy-8.3.6-sdk/web/renpy.wasm (8388608, 2097152) compressed
+44117881a0d9b4722e1e744ecd936af55477d08c45dc5f6f2e27be212fef46b3.rpu (4350525, 497397)
+  -> /Users/parisa/Desktop/renpy-8.3.6-sdk/web/renpy.wasm (10485760, 2097152) compressed
+44117881a0d9b4722e1e744ecd936af55477d08c45dc5f6f2e27be212fef46b3.rpu (4847922, 489825)
+  -> /Users/parisa/Desktop/renpy-8.3.6-sdk/web/renpy.wasm (12582912, 2097152) compressed
+44117881a0d9b4722e1e744ecd936af55477d08c45dc5f6f2e27be212fef46b3.rpu (5337747, 919061)
+  -> /Users/parisa/Desktop/renpy-8.3.6-sdk/web/renpy.wasm (14680064, 2097152) compressed
+44117881a0d9b4722e1e744ecd936af55477d08c45dc5f6f2e27be212fef46b3.rpu (6256808, 741286)
+  -> /Users/parisa/Desktop/renpy-8.3.6-sdk/web/renpy.wasm (16777216, 1836787) compressed
+44117881a0d9b4722e1e744ecd936af55477d08c45dc5f6f2e27be212fef46b3.rpu (6998094, 95781)
+  -> /Users/parisa/Desktop/renpy-8.3.6-sdk/web/renpy.js (0, 396387) compressed
+44117881a0d9b4722e1e744ecd936af55477d08c45dc5f6f2e27be212fef46b3.rpu (7093875, 874478)
+  -> /Users/parisa/Desktop/renpy-8.3.6-sdk/web/renpy.data (0, 2097152) compressed
+44117881a0d9b4722e1e744ecd936af55477d08c45dc5f6f2e27be212fef46b3.rpu (7968353, 639484)
+  -> /Users/parisa/Desktop/renpy-8.3.6-sdk/web/renpy.data (2097152, 2097152) compressed
+44117881a0d9b4722e1e744ecd936af55477d08c45dc5f6f2e27be212fef46b3.rpu (8607837, 683902)
+  -> /Users/parisa/Desktop/renpy-8.3.6-sdk/web/renpy.data (4194304, 2097152) compressed
+44117881a0d9b4722e1e744ecd936af55477d08c45dc5f6f2e27be212fef46b3.rpu (9291739, 854406)
+  -> /Users/parisa/Desktop/renpy-8.3.6-sdk/web/renpy.data (6291456, 2097152) compressed
+44117881a0d9b4722e1e744ecd936af55477d08c45dc5f6f2e27be212fef46b3.rpu (10146145, 863475)
+  -> /Users/parisa/Desktop/renpy-8.3.6-sdk/web/renpy.data (8388608, 2097152) compressed
+44117881a0d9b4722e1e744ecd936af55477d08c45dc5f6f2e27be212fef46b3.rpu (11009620, 844078)
+  -> /Users/parisa/Desktop/renpy-8.3.6-sdk/web/renpy.data (10485760, 2097152) compressed
+44117881a0d9b4722e1e744ecd936af55477d08c45dc5f6f2e27be212fef46b3.rpu (11853698, 716723)
+  -> /Users/parisa/Desktop/renpy-8.3.6-sdk/web/renpy.data (12582912, 2097152) compressed
+44117881a0d9b4722e1e744ecd936af55477d08c45dc5f6f2e27be212fef46b3.rpu (12570421, 685674)
+  -> /Users/parisa/Desktop/renpy-8.3.6-sdk/web/renpy.data (14680064, 1690062) compressed
+44117881a0d9b4722e1e744ecd936af55477d08c45dc5f6f2e27be212fef46b3.rpu (13256095, 8524)
+  -> /Users/parisa/Desktop/renpy-8.3.6-sdk/web/renpy-pre.js (0, 29381) compressed
+44117881a0d9b4722e1e744ecd936af55477d08c45dc5f6f2e27be212fef46b3.rpu (13264619, 475)
+  -> /Users/parisa/Desktop/renpy-8.3.6-sdk/web/manifest.json (0, 2640) compressed
+44117881a0d9b4722e1e744ecd936af55477d08c45dc5f6f2e27be212fef46b3.rpu (13265094, 266131)
+  -> /Users/parisa/Desktop/renpy-8.3.6-sdk/web/index.html.symbols (0, 1195544) compressed
+44117881a0d9b4722e1e744ecd936af55477d08c45dc5f6f2e27be212fef46b3.rpu (13531225, 1944)
+  -> /Users/parisa/Desktop/renpy-8.3.6-sdk/web/index.html (0, 6082) compressed
+Blockfile delete /Users/parisa/Desktop/renpy-8.3.6-sdk/update/44117881a0d9b4722e1e744ecd936af55477d08c45dc5f6f2e27be212fef46b3.rpu.
+Final delete /Users/parisa/Desktop/renpy-8.3.6-sdk/_padding.old.rpa.
